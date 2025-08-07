@@ -1,4 +1,4 @@
-<img width="882" height="774" alt="image" src="https://github.com/user-attachments/assets/7e5767ab-5b59-4cc3-a7c8-eb35eb65f4e9" /># 💘 Flirty Pickup Bot
+💘 Flirty Pickup Bot
 
 A fun, cheeky, and light-hearted chatbot that delivers random flirty pickup lines to make you smile, laugh, or even break the ice with your crush! Built with pure **HTML**, **CSS**, and **JavaScript**, this project is perfect for anyone who enjoys humor, UI creativity, and chatbot interactions.
 
@@ -27,18 +27,7 @@ A fun, cheeky, and light-hearted chatbot that delivers random flirty pickup line
 💡 Example Pickup Lines
 “Are you French? Because Eiffel for you.”
 “Do you believe in love at first sight—or should I walk by again?”
-“Your hand looks heavy. Can I hold it for you?”
-
-(You can customize or expand this list in the code!)
-
-📌 Project Ideas to Extend
-Add a chatbot UI with typing animation
-
-Use a text-to-speech feature for voice delivery
-
-Categorize pickup lines (funny, romantic, cheesy)
-
-Add dark/light mode toggle
+“Your hand looks heavy. Can I hold it for you?
 
 🧑‍💻 Developer Info
 👤 Name: Farzan Gulzar
